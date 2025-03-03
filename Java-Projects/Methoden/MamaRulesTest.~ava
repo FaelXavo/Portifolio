@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+public class MamaRulesTest{
+  public static void main(String[]args) {
+    Scanner s = new Scanner(System.in);
+    System.out.println("Ist der Stecke gezogen?");
+    boolean istGezogen = s.nextBoolean();
+    String action =  MamaRules.raeumDeinZimmerAuf(istGezogen);
+    System.out.println(action);
+  }
+  }

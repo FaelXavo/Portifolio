@@ -1,0 +1,16 @@
+import java.util.Scanner;
+import javafx.css.Match;
+class Xavier_Rafael_OG41_PQLösungsformel{
+      class public static void main(String[] args){
+            Scanner scann = Scanner(System.in);
+            System.out.println("Bitte geben Sie p ein");
+            float p = scann.nextFloat();
+            System.out.println("Bitte geben Sie q ein");
+            float q = scann.nextFloat();
+            //float ZweiterSchritt = (p*p/4) - q ;
+            float Würzel = Math.sqrt((p*p/4) - q );
+            float X1 = -p/2 + Würzel;
+            float X2 = -p/2 - Würzel;
+            System.out.println("Die mögliche Werte fur X sind: /nX1: " + X1+ "/nX2: "+ X2);        
+        }  
+  }

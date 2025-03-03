@@ -1,0 +1,26 @@
+object ErsteGUI2: TFGUIForm
+  Left = 1080
+  Top = 210
+  BorderIcons = [biSystemMenu]
+  Caption = 'ErsteGUI2'
+  ClientHeight = 261
+  ClientWidth = 284
+  Color = clBlue
+  ParentFont = True
+  FormStyle = fsStayOnTop
+  OldCreateOrder = True
+  Position = poDesigned
+  ShowHint = True
+  Visible = True
+  OnClose = FormClose
+  OnCloseQuery = FormCloseQuery
+  OnMouseActivate = FormMouseActivate
+  OnResize = FormResize
+  FrameType = 5
+  Modified = True
+  Resizable = False
+  Undecorated = False
+  Background = clBlue
+  PixelsPerInch = 96
+  TextHeight = 13
+end

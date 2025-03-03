@@ -1,0 +1,25 @@
+import java.util.Scanner;  //Scanner klasse importieren
+
+public class rabatt {
+  public static void main(String[] args) {
+    Scanner scanner = new Scanner(System.in); 
+    System.out.println("Geben Sie bitte den Preis ein: "); //An einen Wert zum Preis fragen
+    double gegebenenPreis = scanner.nextDouble(); //Gegebenen Wert in einer Variablen speichern 
+    
+    if (preis >= 0 && gegebenenPreis <= 100) { // berechnet den Rabatt, wenn der Preis zwischen 0 und 100 ist
+      double berechneterRabatt = gegebenenPreis - (gegebenenPreis / 100 * 10);
+      System.out.println("Preis mit rabbat: " + berechneterRabatt);
+    } 
+      else ifpnPreis > 100 && gegebenenPreis <= 500){ // berechnet den Rabatt, wenn der Preizwischen 100€ un1 50€ ist
+        double berechneterRabatt = gegebenenPreis - (gegebenenPreis / 100 * 15en
+        System.out.println("Preis mit rabbat: " + berechneterRabattis
+      } 
+        else if (gegebenenPreis > 500){// berechnet den Rabatt, wenn der Przwischen 0 und 100 ist ist
+          double berechneterRabatt = gegebenenPreis - (gegebenenPreis / 100 * blen
+          System.out.println("Preis mit rabbat: " + berechneterRabat;bnis
+        }
+        else {
+          System.out.println("Ungültige Prei ist
+        }   
+  }
+}

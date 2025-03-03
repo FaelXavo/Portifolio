@@ -1,0 +1,16 @@
+import java.util.ArrayList;
+
+class ArrayHelperTest{
+  public static void main(String[] args) {
+    ArrayList<Integer> zahlen = new ArrayList<>();
+    for(int i = 0; i < 10; i++){
+      zahlen.add(i, i); 
+    }
+      zahlen.add(2, 14);
+      zahlen.add(3, 24);
+      zahlen.add(5, 44);
+      zahlen.add(7, 544);
+    System.out.println( "array: " + ArrayHelper.convertArrayToString(zahlen));
+    
+  }
+}

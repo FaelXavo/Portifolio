@@ -1,0 +1,192 @@
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:10: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+ * Die Benutzeroberfl?che des Notenrechners
+                     ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:78: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    // Panel hinzuf?gen
+                   ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:80: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    //TODO Farbe des Panels hinzuf?gen
+                                  ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:83: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    //TODO Farbe des Panels hinzuf?gen
+                                  ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:86: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    //TODO Farbe des Panels hinzuf?gen
+                                  ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:89: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    //TODO Farbe des Panels hinzuf?gen
+                                  ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:104: Fehler: Nicht zuordenbares Zeichen (0xF6) für Codierung UTF-8
+      //AML auslesen und alle alten Elemente l?schen
+                                              ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:112: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+    //Elemente der graphischen Benutzeroberfl?che einstellen
+                                             ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:113: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+    //Elemente der F?cherliste
+                    ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:116: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+    jLabel1.setText("F?cher");
+                      ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:123: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+    //Checkboxen mit F?chern
+                      ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:158: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    //Elemente des Panel Fach hinzuf?gen
+                                    ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:161: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    jLabel2.setText("Fach hinzuf?gen");
+                                ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:178: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    btn_Fach_hinzufuegen.setText("Fach hinzuf?gen");
+                                             ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:188: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    //Elemente des Panel Note hinzuf?gen
+                                    ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:191: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    jLabel5.setText("Note hinzuf?gen");
+                                ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:246: Fehler: Nicht zuordenbares Zeichen (0xF6) für Codierung UTF-8
+    btn_File_waehlen.setText("Datei ?ffnen");
+                                    ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:267: Fehler: Nicht zuordenbares Zeichen (0xD6) für Codierung UTF-8
+    jfco.setDialogTitle("?ffne Datei");
+                         ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:286: Fehler: Nicht zuordenbares Zeichen (0xF6) für Codierung UTF-8
+    // Ausl?sende Checkbox identifizieren
+           ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:350: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    // Neues Fach der ComboBox bei Note hinzuf?gen bekannt machen
+                                              ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:352: Fehler: Nicht zuordenbares Zeichen (0xF6) für Codierung UTF-8
+    // Eingabe l?schen
+                ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:358: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    // Werte der Felder auslesen und die Eingabefelder zur?cksetzen
+                                                          ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java:371: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    // Note in der Notenverwaltung hinzuf?gen
+                                         ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:16: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+ * Verwaltet die Noten und stellt Listen f?r die GUI zusammen
+                                          ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:27: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+  // Einlesen der Daten - dem Konstruktor wird die Datei ?bergeben
+                                                         ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:46: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+  //gibt den Fachnamen nach der Nummer in der Liste zur?ck
+                                                       ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:51: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+  //gibt die Wunschnote nach der Nummer in der Liste zur?ck
+                                                        ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:56: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+  //gibt den aktuellen Notenstand nach der Nummer in der Liste zur?ck
+                                                                  ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:61: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+  //gibt den Fachnamen nach der Nummer in der Liste zur?ck
+                                                       ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:66: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+  //gibt die Namen der F?cher als Liste zur?ck
+                        ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:66: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+  //gibt die Namen der F?cher als Liste zur?ck
+                                           ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:83: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+  //neue Note hinzuf?gen
+                    ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:89: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+  //neues Fach hinzuf?gen
+                     ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:100: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+  //l?d die gespeicherten Noten- und Fachdaten aus der XML-Datei
+     ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:106: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+      //Datei ausw?hlen
+                  ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:112: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+      nList = nList.item(0).getChildNodes();//Root-Knoten zu F?chern
+                                                              ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:114: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+      //F?r alle F?cher
+         ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:114: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+      //F?r alle F?cher
+                  ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:120: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+        //F?r alle Noten
+           ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:122: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+          NodeList note = nList.item(i).getChildNodes();//F?cher zu Noten
+                                                           ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:123: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+          //F?r alle Attribute der Note
+             ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:133: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+          //Konstruktor ausw?hlen
+                            ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:154: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+      //XML-Dokument mit Daten f?llen
+                                ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:158: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+      //f?r alle F?cher
+         ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:158: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+      //f?r alle F?cher
+                  ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Notenverwaltung.java:165: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+        //f?r alle Noten
+           ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Fach.java:46: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+  // f?gt eine neue Note ein
+      ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Fach.java:51: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+  // ?ndert die Note an der angegebenen Stelle in der Liste (f?ngt mit 0 an!)
+     ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Fach.java:51: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+  // ?ndert die Note an der angegebenen Stelle in der Liste (f?ngt mit 0 an!)
+                                                              ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Fach.java:59: Fehler: Nicht zuordenbares Zeichen (0xF6) für Codierung UTF-8
+  // l?scht eine Note aus der Liste und l?sst die Leerstelle in der Liste
+      ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Fach.java:59: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+  // l?scht eine Note aus der Liste und l?sst die Leerstelle in der Liste
+                                         ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Fach.java:74: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    // Abfangen, fall f?r eine leere Liste die Note berechnet wird
+                       ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Fach.java:75: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    // das Schl?sselwort return beendet die ganze Methode
+               ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Fach.java:83: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+        anzahlKlausuren++; // Klausurz?hler +1
+                                      ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Fach.java:91: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    // Berechnung m?ndlicher Teil
+                   ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Fach.java:112: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    // Durchschnitt der m?ndlichen Note ausrechnen
+                         ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Fach.java:115: Fehler: Nicht zuordenbares Zeichen (0xF6) für Codierung UTF-8
+    // Klausuren k?nnen unterschiedlich in die Endnote einflie?en
+                  ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Fach.java:115: Fehler: Nicht zuordenbares Zeichen (0xDF) für Codierung UTF-8
+    // Klausuren k?nnen unterschiedlich in die Endnote einflie?en
+                                                              ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Fach.java:132: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+  // gibt die Liste als Zeichenkette zur?ck
+                                        ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Note.java:22: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+    this.gewichtung = 0;  //0 ist die Kennzeichung f?r gleich wichtig
+                                                    ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Note.java:23: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+    this.isKlausur = isKlausur;//Kennzeichnung als Klausur zur sp?teren Endnotenberechung
+                                                                 ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Note.java:68: Fehler: Nicht zuordenbares Zeichen (0xFC) für Codierung UTF-8
+  //das Schl?sselwort static kennzeichnet die Methode als Objektunabh?ngig
+            ^
+D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\Note.java:68: Fehler: Nicht zuordenbares Zeichen (0xE4) für Codierung UTF-8
+  //das Schl?sselwort static kennzeichnet die Methode als Objektunabh?ngig
+                                                                     ^
+Hinweis: D:\OG 41 ITMI\Analyse der Funktion und Source Code\Notenverwaltung\NotenverwaltungGUI.java verwendet nicht geprüfte oder unsichere Vorgänge.
+Hinweis: Wiederholen Sie die Kompilierung mit -Xlint:unchecked, um Details zu erhalten.
+63 Fehler
