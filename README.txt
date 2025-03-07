@@ -10,4 +10,4 @@ Although I do not have any prior professional experience as a programmer, I have
 
 I am deeply engaged in the world of programming and computers and am always eager to learn more, explore new challenges, and grow as a developer. I hope you can take something interesting from my projects!
 
-03.03.2025
+
